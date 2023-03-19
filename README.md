@@ -1,4 +1,4 @@
-# mp3towav-tts
+# mp3towav TorToiSe
 Python application to batch convert mp3 files to wav in the format required for TorToiSe tts
 
 # How to run
